@@ -17,7 +17,7 @@ Extend the Ruby Date class with methods for workweek days and weekend days:
 
     date.weekend? #=> true when the date is a weekend day.
 
-A workweek day is Monday to Friday.
+A workweek day is Monday through Friday.
 
 A weekend day is Sunday or Saturday.
 
