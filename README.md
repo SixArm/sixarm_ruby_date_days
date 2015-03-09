@@ -1,4 +1,4 @@
-# SixArm.com » Ruby » <br> Date methods for days
+# Ruby » <br> Date methods for days
 
 [![Code Climate](https://codeclimate.com/github/SixArm/sixarm_ruby_date_days.png)](https://codeclimate.com/github/SixArm/sixarm_ruby_date_days)
 [![Build Status](https://travis-ci.org/SixArm/sixarm_ruby_date_days.png)](https://travis-ci.org/SixArm/sixarm_ruby_date_days)
