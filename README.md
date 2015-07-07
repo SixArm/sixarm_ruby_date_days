@@ -62,8 +62,3 @@ To enable high security for all our gems:
 To install with high security:
 
     gem install sixarm_ruby_date_days --trust-policy HighSecurity
-
-
-## Changes
-
-* 2014-03-26 2.0.0 Publish
