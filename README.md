@@ -1,4 +1,4 @@
-SixArm.com → Ruby → <br> Date methods for days
+# SixArm.com → Ruby → <br> Date methods for days
 
 <!--HEADER-OPEN-->
 
