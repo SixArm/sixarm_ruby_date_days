@@ -2,16 +2,16 @@
 
 <!--HEADER-OPEN-->
 
-[![Code Climate](https://codeclimate.com/github/SixArm/sixarm_ruby_date_days.png)](https://codeclimate.com/github/SixArm/sixarm_ruby_date_days)
+[![Gem Version](https://badge.fury.io/rb/sixarm_ruby_date_days.svg)](http://badge.fury.io/rb/sixarm_ruby_date_days)
 [![Build Status](https://travis-ci.org/SixArm/sixarm_ruby_date_days.png)](https://travis-ci.org/SixArm/sixarm_ruby_date_days)
+[![Code Climate](https://codeclimate.com/github/SixArm/sixarm_ruby_date_days.png)](https://codeclimate.com/github/SixArm/sixarm_ruby_date_days)
+[![Coverage Status](https://coveralls.io/repos/SixArm/sixarm_ruby_date_days/badge.svg?branch=master&service=github)](https://coveralls.io/github/SixArm/sixarm_ruby_date_days?branch=master)
 
 * Git: <https://github.com/sixarm/sixarm_ruby_date_days>
 * Doc: <http://sixarm.com/sixarm_ruby_date_days/doc>
 * Gem: <https://rubygems.org/gems/sixarm_ruby_date_days>
 * Contact: Joel Parker Henderson, <joel@sixarm.com>
-* Changes: See CHANGES.md file.
-* License: See LICENSE.md file.
-* Helping: See CONTRIBUTING.md file.
+* Project: [Changes](CHANGES.md), [License](LICENSE.md), [Contributing](CONTRIBUTING.md).
 
 <!--HEADER-SHUT-->
 
@@ -47,22 +47,20 @@ Want to help? We're happy to get pull requests.
 
 ## Install
 
-To install using a Gemfile, add this:
+### Gem
 
-    gem "sixarm_ruby_date_days", ">= 2.0.1", "< 3"
+Run this command in your shell or terminal:
 
-To install using the command line, run this:
+    gem install sixarm_ruby_date_days
 
-    gem install sixarm_ruby_date_days -v ">= 2.0.1, < 3"
+Or add this to your Gemfile:
 
-To install using the command line with high security, run this:
+    gem 'sixarm_ruby_date_days'
 
-    wget http://sixarm.com/sixarm.pem
-    gem cert --add sixarm.pem && gem sources --add http://sixarm.com
-    gem install sixarm_ruby_date_days -v ">= 2.0.1, < 3" --trust-policy HighSecurity
+### Require
 
 To require the gem in your code:
 
-    require "sixarm_ruby_date_days"
+    require 'sixarm_ruby_date_days'
 
 <!--INSTALL-SHUT-->
