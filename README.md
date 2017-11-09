@@ -1,6 +1,6 @@
 # SixArm.com → Ruby → <br> Date methods for days
 
-<!--HEADER-OPEN-->
+<!--header-open-->
 
 [![Gem Version](https://badge.fury.io/rb/sixarm_ruby_date_days.svg)](http://badge.fury.io/rb/sixarm_ruby_date_days)
 [![Build Status](https://travis-ci.org/SixArm/sixarm_ruby_date_days.png)](https://travis-ci.org/SixArm/sixarm_ruby_date_days)
@@ -13,7 +13,7 @@
 * Contact: Joel Parker Henderson, <joel@sixarm.com>
 * Project: [Changes](CHANGES.md), [License](LICENSE.md), [Contributing](CONTRIBUTING.md).
 
-<!--HEADER-SHUT-->
+<!--header-shut-->
 
 
 ## Introduction
@@ -43,7 +43,7 @@ For docs go to <http://sixarm.com/sixarm_ruby_date_days/doc>
 Want to help? We're happy to get pull requests.
 
 
-<!--INSTALL-OPEN-->
+<!--install-opent-->
 
 ## Install
 
@@ -63,4 +63,4 @@ To require the gem in your code:
 
     require 'sixarm_ruby_date_days'
 
-<!--INSTALL-SHUT-->
+<!--install-shut-->
