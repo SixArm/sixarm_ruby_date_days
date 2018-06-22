@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
 require "minitest/autorun"
-require "coveralls"; Coveralls.wear!
-require "simplecov"; SimpleCov.start
+require "simplecov"
+SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter.new([
+  SimpleCov::Formatter::HTMLFormatter,
+])
+SimpleCov.start
 require "sixarm_ruby_date_days"
-
 
 class DateTest < Minitest::Test
 
